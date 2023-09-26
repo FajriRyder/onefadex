@@ -1,0 +1,11 @@
+Target Belajar kedepannya
+*frontend
+-html5
+-css3
+-js lanjutan
+-bootstrap
+-tailwind
+*backend
+node.js
+php ngulang
+laravel ngulang
