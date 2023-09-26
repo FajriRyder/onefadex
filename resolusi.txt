@@ -9,5 +9,4 @@ Target Belajar kedepannya
 node.js
 php ngulang
 laravel ngulang
-membuat 3 website dengan php
 membuat 3 website dengan node js
