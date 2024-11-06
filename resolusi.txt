@@ -6,7 +6,5 @@ Target Belajar kedepannya
 -bootstrap
 -tailwind
 *backend
-node.js
 php ngulang
 laravel ngulang
-membuat 3 website dengan node js
